@@ -251,6 +251,9 @@
         "dq-vault",
         "dq-tools"
     ],
+    "jinjat-data": [
+        "jinjat_dbt"
+    ],
     "jitsucom": [
         "dbt-jitsu"
     ],
